@@ -1,24 +1,20 @@
 <div align="center">
 
-# 🕷️ BALADITH RAMESH
+<!-- Hanging Spider-Man animation -->
+<img src="YOUR_GIF_URL" width="220">
 
-### 💻 Computer Science Engineering Student
+# BALADITH RAMESH
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=600&lines=With+great+power+comes+great+code.;CSE+Student+%7C+Developer;Building+%7C+Learning+%7C+Creating;Welcome+to+my+GitHub+🕷️" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;Computer+Science+Engineering+Student;Developer+%7C+Learner+%7C+Creator" />
 
 </div>
 
 ---
 
-<div align="center">
-
-## 🕸️ ABOUT ME
-
-</div>
+## 💻 About Me
 
 ```text
-🕷️ Name       : Baladith Ramesh
-💻 Department : Computer Science Engineering
-🚀 Focus      : Software Development
-🌐 Interests  : Web Development • AI • Programming
-⚡ Motto      : Learn. Build. Improve.
+Computer Science Engineering Student
+Interested in Software Development
+Learning Web Development, AI & Programming
+Building projects and improving every day 🚀
